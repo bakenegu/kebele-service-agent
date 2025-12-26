@@ -40,3 +40,8 @@ Thumbs.db
 
 # UV
 uv.lock
+
+__pycache__/
+*.pyc
+.env
+.venv/
